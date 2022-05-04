@@ -1,2 +1,5 @@
-# trainings
-A repository for trainings
+# MAPPING PARTY
+---
+Using Jekyll-reveal.js
+---
+## Deployed [here](https://guercusguo.github.io/mappingparty/)

@@ -94,12 +94,12 @@ body {
 
 ::selection {
   color: #fff;
-  background: #ffc0d5;
+  background: #4DB060;
   text-shadow: none; }
 
 ::-moz-selection {
   color: #fff;
-  background: #ffc0d5;
+  background: #4DB060;
   text-shadow: none; }
 
 .reveal .slides > section,

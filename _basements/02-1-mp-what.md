@@ -12,5 +12,3 @@ slide: 02-mp
 4. **Uscita, mapping**: zone da mappare ai gruppi, scadenza
 
 5. **Post-elaborazione dei dati**: modifica di OSM
-
-6. **Momento gastronomico**: attività conviviali
